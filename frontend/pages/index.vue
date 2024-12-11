@@ -1,4 +1,5 @@
 <template>
+  
   <div class="container">
     <h1 class="title">
       Login
@@ -76,7 +77,7 @@ input {
 }
 
 button {
-  width: 100%;
+  width: 99%;
   height: 50px;
   border: none;
   background-color: #f0c808;
